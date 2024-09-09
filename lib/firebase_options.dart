@@ -60,4 +60,5 @@ class DefaultFirebaseOptions {
     authDomain: 'crud-firebase-ce3c7.firebaseapp.com',
     storageBucket: 'crud-firebase-ce3c7.appspot.com',
   );
+
 }
